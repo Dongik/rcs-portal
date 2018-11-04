@@ -1,4 +1,4 @@
-#!/home/dongik/workspace/portal/venv/bin/python3
+#!/home/ubuntu/flask-projects/rcs-portal/venv/bin/python3
 
 # -*- coding: utf-8 -*-
 import re
